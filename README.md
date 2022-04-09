@@ -1,4 +1,3 @@
-[![MasterHead](https://drive.google.com/file/d/1shJeoTKfu4K4hJSbzggtdfcRMM2Bcjge/view?usp=sharing)](https://www.linkedin.com/in/vidhi-mehta-2252001a8/)
 <h1 align="center">Hi 👋, I'm Vidhi Mehta. Welcome to my Github Account...</h1>
 <h3 align="center">Passionate Hardworking girl with clear mindset.</h3>
 
@@ -7,8 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidhi2504" alt="vidhi2504" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vidhi_2504" target="blank"><img src="https://img.shields.io/twitter/follow/vidhi_2504?logo=twitter&style=for-the-badge" alt="vidhi_2504" /></a> </p>
-
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...")
 
 - 🌱 I’m currently learning **Machine Learning , Data Structures and Algorithms ,Public Relations**
 
@@ -19,8 +16,6 @@ img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2
 - 📫 How to reach me **mehta.vidhi2504@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cZU98k0APMiq6X1HPb_Ap2mea3u1nCVs/view?usp=sharing](https://drive.google.com/file/d/1cZU98k0APMiq6X1HPb_Ap2mea3u1nCVs/view?usp=sharing)
-
-- ⚡ Fun fact **I use to**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
