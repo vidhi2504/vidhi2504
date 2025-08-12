@@ -1,37 +1,67 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to my GitHub Profile 👨‍💻❤️
+<h1 align="center">👋 Hey there! Welcome to my GitHub Profile</h1>
 
-## Connect with me 📫:
-<p align="left">
-<a href="https://twitter.com/vidhi_2504" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/002/534/045/original/social-media-twitter-logo-blue-isolated-free-vector.jpg" alt="vidhi_2504" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vidhi-mehta-2252001a8/" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" alt="https://www.linkedin.com/in/vidhi-mehta-2252001a8?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bw5jfh8mkrpe5f3v29iu0xq%3d%3d" height="30" width="40" /></a>
-<a href="https://instagram.com/vidhi_2504" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="vidhi_2504" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vidhi_2504" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="vidhi_2504" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vidhi_2504" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/118/895/png-transparent-hackerrank-logos-and-brands-line-filled-icon.png" alt="vidhi_2504" height="30" width="40" /></a>
-
-
+<p align="center">
+  <strong>I'm Vidhi Mehta</strong> – a passionate Software Developer 👩‍💻
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/vidhi-mehta-2252001a8/" target="_blank">
+    <img align="center" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" alt="https://www.linkedin.com/in/vidhi-mehta-2252001a8?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bw5jfh8mkrpe5f3v29iu0xq%3d%3d" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/vidhi_2504" target="_blank">
+    <img align="center" src="https://static.vecteezy.com/system/resources/previews/002/534/045/original/social-media-twitter-logo-blue-isolated-free-vector.jpg" alt="vidhi_2504" height="30" width="40" />
+  </a>
+</p>
 
-I am <a href="https://www.linkedin.com/in/vidhi-mehta-2252001a8/">Vidhi Mehta</a> 😃 an undergraduate pursuing bachelor's in Computer Science. I love to interact with people and engage with communities. I'm a passionate girl with clear mindset regarding my goal.
+---
 
-## Work Experience 👔
-* Community Manager at Coding Ninjas
-* Cluster Manager at godutch (IIT Mumbai initiative)
-* Co-founder and Lead at CodeChef
-* Technical Content Writer
-* Front-End Web Developer at Exitbrief Web Solutions
-* Program Manager at godutch (IIT Mumbai initiative)
+<h2>💼 Work Experience</h2>
 
-## Volunteer Experience🌱
-* Campus Captain - Coding Minutes
-* Chapter Lead - CodeChef College Chapter
-* Media and Marketing Lead - Efarm (College Startup)
-* Co-Worker -Sahyadri Foundation
+<ul>
+  <li>👩‍💻 <strong>Software Engineer</strong> at <b>ValueLabs</b> – 2.3 years</li>
+  <li>🧑‍🎓 <strong>Intern</strong> at <b>ValueLabs</b> – 2 months</li>
+</ul>
 
-## Technology Stack ⚙️:
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/840/443/png-clipart-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text-thumbnail.png" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://thumbs.dreamstime.com/b/javascript-logo-javascript-logo-white-background-vector-format-available-136765881.jpg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> </p>
+<h3>📌 Key Contributions:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhi2504&show_icons=true&locale=en" alt="vidhi2504" /></p>
+<ul>
+  <li>🚀 Developed and maintained scalable, user-centric web applications for an Australian B2B cloud and hardware solutions project using <strong>ReactJS, NextJS, and JavaScript</strong>.</li>
+  <li>🛠️ Gained hands-on experience over a 3-month internship working on backend services and database management for an Australian project using <strong>Java, PostgreSQL, MySQL, and Ubuntu</strong>.</li>
+  <li>🤝 Worked closely with international, cross-functional teams to ensure smooth frontend-backend integration while following agile methodologies and sprint schedules.</li>
+  <li>⚙️ Focused on enhancing application performance by optimizing load times and ensuring responsive behavior across various devices and platforms through efficient coding and regular testing.</li>
+</ul>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhi2504&" alt="vidhi2504" /></p>
+---
 
+<h2>🤝 Volunteering</h2>
+
+<ul>
+  <li>👩‍💼 <strong>Community Manager</strong> at <b>Coding Ninjas</b></li>
+  <li>👥 <strong>Cluster Manager</strong> at <b>godutch (IIT Mumbai initiative)</b></li>
+  <li>🚀 <strong>Co-founder and Lead</strong> at <b>CodeChef</b></li>
+  <li>📝 <strong>Technical Content Writer</strong></li>
+  <li>🎨 <strong>Front-End Web Developer</strong> at <b>Exitbrief Web Solutions</b></li>
+  <li>📊 <strong>Program Manager</strong> at <b>godutch (IIT Mumbai initiative)</b></li>
+</ul>
+
+---
+
+<h2>🧰 Tech Stack</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=black" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/NextJS-000000?style=flat&logo=next.js&logoColor=white" alt="NextJS" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" alt="Axios" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! 😊 Feel free to connect with me on LinkedIn or Twitter 💬
+</p>
