@@ -18,8 +18,9 @@
 <h2>💼 Work Experience</h2>
 
 <ul>
-  <li>👩‍💻 <strong>Software Engineer</strong> at <b>ValueLabs</b> – 2.3 years</li>
-  <li>🧑‍🎓 <strong>Intern</strong> at <b>ValueLabs</b> – 2 months</li>
+    <li>👩‍💻 <strong>Senior Software Engineer</strong> at <b>ValueLabs</b></li>
+  <li>👩‍💻 <strong>Software Engineer</strong> at <b>ValueLabs</b></li>
+  <li>🧑‍🎓 <strong>Intern</strong> at <b>ValueLabs</b></li>
 </ul>
 
 <h3>📌 Key Contributions:</h3>
